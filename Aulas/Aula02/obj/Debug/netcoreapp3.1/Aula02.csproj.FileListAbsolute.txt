@@ -1,0 +1,13 @@
+/home/alexandre/Documentos/Programação/Curso_C#/Aulas/Aula02/bin/Debug/netcoreapp3.1/Aula02
+/home/alexandre/Documentos/Programação/Curso_C#/Aulas/Aula02/bin/Debug/netcoreapp3.1/Aula02.deps.json
+/home/alexandre/Documentos/Programação/Curso_C#/Aulas/Aula02/bin/Debug/netcoreapp3.1/Aula02.runtimeconfig.json
+/home/alexandre/Documentos/Programação/Curso_C#/Aulas/Aula02/bin/Debug/netcoreapp3.1/Aula02.runtimeconfig.dev.json
+/home/alexandre/Documentos/Programação/Curso_C#/Aulas/Aula02/bin/Debug/netcoreapp3.1/Aula02.dll
+/home/alexandre/Documentos/Programação/Curso_C#/Aulas/Aula02/bin/Debug/netcoreapp3.1/Aula02.pdb
+/home/alexandre/Documentos/Programação/Curso_C#/Aulas/Aula02/obj/Debug/netcoreapp3.1/Aula02.csprojAssemblyReference.cache
+/home/alexandre/Documentos/Programação/Curso_C#/Aulas/Aula02/obj/Debug/netcoreapp3.1/Aula02.AssemblyInfoInputs.cache
+/home/alexandre/Documentos/Programação/Curso_C#/Aulas/Aula02/obj/Debug/netcoreapp3.1/Aula02.AssemblyInfo.cs
+/home/alexandre/Documentos/Programação/Curso_C#/Aulas/Aula02/obj/Debug/netcoreapp3.1/Aula02.csproj.CoreCompileInputs.cache
+/home/alexandre/Documentos/Programação/Curso_C#/Aulas/Aula02/obj/Debug/netcoreapp3.1/Aula02.dll
+/home/alexandre/Documentos/Programação/Curso_C#/Aulas/Aula02/obj/Debug/netcoreapp3.1/Aula02.pdb
+/home/alexandre/Documentos/Programação/Curso_C#/Aulas/Aula02/obj/Debug/netcoreapp3.1/Aula02.genruntimeconfig.cache
