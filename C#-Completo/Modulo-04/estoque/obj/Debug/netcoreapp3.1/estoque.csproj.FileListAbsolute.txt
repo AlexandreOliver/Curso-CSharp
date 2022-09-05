@@ -1,0 +1,13 @@
+/home/alexandre/Documentos/Programação/Curso_C#/C# Completo/POO/estoque/obj/Debug/netcoreapp3.1/estoque.csprojAssemblyReference.cache
+/home/alexandre/Documentos/Programação/Curso_C#/C# Completo/POO/estoque/obj/Debug/netcoreapp3.1/estoque.AssemblyInfoInputs.cache
+/home/alexandre/Documentos/Programação/Curso_C#/C# Completo/POO/estoque/obj/Debug/netcoreapp3.1/estoque.AssemblyInfo.cs
+/home/alexandre/Documentos/Programação/Curso_C#/C# Completo/POO/estoque/obj/Debug/netcoreapp3.1/estoque.csproj.CoreCompileInputs.cache
+/home/alexandre/Documentos/Programação/Curso_C#/C# Completo/POO/estoque/bin/Debug/netcoreapp3.1/estoque
+/home/alexandre/Documentos/Programação/Curso_C#/C# Completo/POO/estoque/bin/Debug/netcoreapp3.1/estoque.deps.json
+/home/alexandre/Documentos/Programação/Curso_C#/C# Completo/POO/estoque/bin/Debug/netcoreapp3.1/estoque.runtimeconfig.json
+/home/alexandre/Documentos/Programação/Curso_C#/C# Completo/POO/estoque/bin/Debug/netcoreapp3.1/estoque.runtimeconfig.dev.json
+/home/alexandre/Documentos/Programação/Curso_C#/C# Completo/POO/estoque/bin/Debug/netcoreapp3.1/estoque.dll
+/home/alexandre/Documentos/Programação/Curso_C#/C# Completo/POO/estoque/bin/Debug/netcoreapp3.1/estoque.pdb
+/home/alexandre/Documentos/Programação/Curso_C#/C# Completo/POO/estoque/obj/Debug/netcoreapp3.1/estoque.dll
+/home/alexandre/Documentos/Programação/Curso_C#/C# Completo/POO/estoque/obj/Debug/netcoreapp3.1/estoque.pdb
+/home/alexandre/Documentos/Programação/Curso_C#/C# Completo/POO/estoque/obj/Debug/netcoreapp3.1/estoque.genruntimeconfig.cache

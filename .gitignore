@@ -1,0 +1,10 @@
+.vscode/
+../obj/
+../bin/
+*.json
+*.cache
+*.dll
+*.csproj
+*.pdb
+*.targets
+
