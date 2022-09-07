@@ -36,7 +36,7 @@ namespace sobrecarga
         }
 
         // Sobrecarga: Mais um construtor agora de 2 argumentos 
-        public Produto(string nome, double preco)
+        public Produto(string nome, double preco) : this() // reaproveita o construtor de 0 argumentos, onde e definido Quantidade = 0.
         {
             Nome = nome;
             Preco = preco;
@@ -44,7 +44,7 @@ namespace sobrecarga
         }
         
         // Mais um Construtor agora de 0 argumentos
-        public Produto() { }
+        public Produto() { Quantidade = 0;}
 
 
     }
