@@ -5,16 +5,17 @@ namespace Course
     class Program {
         static void Main(string[] args) 
         {
-            Console.WriteLine("Entre os dados do produto:");
             Console.Write("Nome: ");
             string nome = Console.ReadLine();
             Console.Write("Preço: ");
             double preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             Console.Write("Quantidade no estoque: ");
             int quantidade = int.Parse(Console.ReadLine());
-
+            /* Com os construtores todas as vezes que instanciar um objeto vou precisar fornecer os parametros */
             Produto p = new Produto(nome, preco, quantidade);
             
+            Produto q = new Produto();
+
             Console.WriteLine();
             Console.WriteLine("Dados do produto: " + p);
             Console.WriteLine();
@@ -40,14 +41,14 @@ namespace Course
         public double Preco;
         public int Quantidade;
 
-        // Construtor, obriga a definição dos atributos na hora de instanciar
+        // Construtores, obriga a definição dos atributos na hora de instanciar
         public Produto(string nome, double preco, int quantidade) 
         {
             Nome = nome;
             Preco = preco;
             Quantidade = quantidade;
         }
-        // ************************************************************************
+        // *******************************
         public double ValorTotalEmEstoque() 
         {
             return Preco * Quantidade;
