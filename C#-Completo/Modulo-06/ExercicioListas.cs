@@ -29,7 +29,7 @@ namespace Mod6
             for (int i = 0; i < quartos.Length; i++)
             {
                 if (quartos[i] != null)
-                    Console.WriteLine($"{i}: {quartos[i].Nome}, {quartos[i].Email}");
+                    Console.WriteLine($"{i}: {quartos[i]}");
                 
             }
 
@@ -45,6 +45,11 @@ namespace Mod6
         {
             Nome = nome;
             Email = email;
+        }
+
+        public override string ToString()
+        {
+            return Nome + ", " + Email;
         }
 
 
