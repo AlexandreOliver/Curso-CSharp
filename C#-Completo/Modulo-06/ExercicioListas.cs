@@ -1,57 +1,77 @@
 using System;
-using System.Globalization;
+using System.Collections.Generic;
 
-namespace Mod6
+class Program
 {
-    class exercicio
+    static void Main()
     {
-        static void Main()
+        List<Employee> funcionarios = new List<Employee>();
+
+        Console.Write("How many employees will be registred? ");
+        int quant = int.Parse(Console.ReadLine());
+
+        for (int i = 1; i <= quant; i++)
         {
-            Cliente[] quartos = new Cliente[10];
+            Console.WriteLine($"\nEmployoee #{i}:");
+            Console.Write("Id: ");
+            int id = int.Parse(Console.ReadLine());
+            Console.Write("Name: ");
+            string nome = Console.ReadLine();
+            Console.Write("Salary: ");
+            double salary = double.Parse(Console.ReadLine());
 
-            Console.Write("Quantos quartos serão alugados? ");
-            int n = int.Parse(Console.ReadLine());
+            funcionarios.Add(new Employee(id, nome, salary));
+        }
 
-            for (int i = 1; i <= n; i++)
+        Console.Write("\nEnter the employee id that will have salary increase: ");
+        int idx = int.Parse(Console.ReadLine());
+
+        Console.WriteLine("Enter the percentage: ");
+        double perc = double.Parse(Console.ReadLine());
+
+        int count = 0;
+        foreach (var i in funcionarios)
+        {
+            if (i.id == idx)
             {
-                Console.WriteLine($"\nAluguel #{i}:");
-                Console.Write("Nome: ");
-                string nome = Console.ReadLine();
-                Console.Write("Email: ");
-                string email = Console.ReadLine();
-                Console.Write("Quarto: ");
-                int quarto = int.Parse(Console.ReadLine());
-
-                quartos[quarto] = new Cliente(nome, email);
+                i.increaseSalary(perc);
+                count +=1;
             }
-
-            Console.WriteLine("\nQuartos Ocupados: ");
-            for (int i = 0; i < quartos.Length; i++)
-            {
-                if (quartos[i] != null)
-                    Console.WriteLine($"{i}: {quartos[i]}");
-                
-            }
-
+        }
+        
+        if (count == 0)
+        {
+            Console.WriteLine("This id does not exist!");
+        }
+        
+        Console.WriteLine("\nUpdate list of employees: ");
+        foreach (var i in funcionarios)
+        {
+            Console.WriteLine(i);
         }
     }
+}
 
-    class Cliente
+class Employee
+{
+    public int id;
+    public string name;
+    public double salary;
+
+    public Employee(int idx, string nome, double salario)
     {
-        public string Nome {get; set;}
-        public string Email {get; set;}
+        id = idx;
+        name = nome;
+        salary = salario;
+    }
 
-        public Cliente(string nome, string email)
-        {
-            Nome = nome;
-            Email = email;
-        }
+    public override string ToString()
+    {
+        return $"{id}, {name}, {salary}";
+    }
 
-        public override string ToString()
-        {
-            return Nome + ", " + Email;
-        }
-
-
+    public void increaseSalary(double percentage)
+    {
+        salary *= (1.0 + percentage/100);
     }
 }
