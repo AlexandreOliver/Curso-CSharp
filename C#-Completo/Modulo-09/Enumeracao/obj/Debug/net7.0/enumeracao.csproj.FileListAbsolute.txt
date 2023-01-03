@@ -1,0 +1,15 @@
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-09/Enumeracao/obj/Debug/net7.0/enumeracao.csproj.AssemblyReference.cache
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-09/Enumeracao/obj/Debug/net7.0/enumeracao.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-09/Enumeracao/obj/Debug/net7.0/enumeracao.AssemblyInfoInputs.cache
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-09/Enumeracao/obj/Debug/net7.0/enumeracao.AssemblyInfo.cs
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-09/Enumeracao/obj/Debug/net7.0/enumeracao.csproj.CoreCompileInputs.cache
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-09/Enumeracao/bin/Debug/net7.0/enumeracao
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-09/Enumeracao/bin/Debug/net7.0/enumeracao.deps.json
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-09/Enumeracao/bin/Debug/net7.0/enumeracao.runtimeconfig.json
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-09/Enumeracao/bin/Debug/net7.0/enumeracao.dll
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-09/Enumeracao/bin/Debug/net7.0/enumeracao.pdb
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-09/Enumeracao/obj/Debug/net7.0/enumeracao.dll
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-09/Enumeracao/obj/Debug/net7.0/refint/enumeracao.dll
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-09/Enumeracao/obj/Debug/net7.0/enumeracao.pdb
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-09/Enumeracao/obj/Debug/net7.0/enumeracao.genruntimeconfig.cache
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-09/Enumeracao/obj/Debug/net7.0/ref/enumeracao.dll
