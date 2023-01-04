@@ -1,0 +1,15 @@
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-09/Composicao/obj/Debug/net7.0/Composicao.csproj.AssemblyReference.cache
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-09/Composicao/obj/Debug/net7.0/Composicao.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-09/Composicao/obj/Debug/net7.0/Composicao.AssemblyInfoInputs.cache
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-09/Composicao/obj/Debug/net7.0/Composicao.AssemblyInfo.cs
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-09/Composicao/obj/Debug/net7.0/Composicao.csproj.CoreCompileInputs.cache
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-09/Composicao/bin/Debug/net7.0/Composicao
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-09/Composicao/bin/Debug/net7.0/Composicao.deps.json
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-09/Composicao/bin/Debug/net7.0/Composicao.runtimeconfig.json
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-09/Composicao/bin/Debug/net7.0/Composicao.dll
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-09/Composicao/bin/Debug/net7.0/Composicao.pdb
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-09/Composicao/obj/Debug/net7.0/Composicao.dll
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-09/Composicao/obj/Debug/net7.0/refint/Composicao.dll
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-09/Composicao/obj/Debug/net7.0/Composicao.pdb
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-09/Composicao/obj/Debug/net7.0/Composicao.genruntimeconfig.cache
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-09/Composicao/obj/Debug/net7.0/ref/Composicao.dll
