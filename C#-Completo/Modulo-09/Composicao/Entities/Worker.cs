@@ -9,33 +9,25 @@ namespace Composicao.Entities
         public String name { get; set; }
         public WorkerLevel level { get; set; }
         public Double baseSalary { get; set; }
+        public Department department { get; set;}
         public List<HourContract> contratos { get; set;} = new List<HourContract>();
 
-        public Worker(string _name, WorkerLevel _level, Double _baseSalary)
+        public Worker(string _name, WorkerLevel _level, Double _baseSalary, Department _department)
         {
             name = _name;
             level = _level;
             baseSalary = _baseSalary;
+            department = _department;
         }
 
         public void addContract(HourContract contract)
         {
-            Console.Write("Date (DD/MM/YYYY): ");
-            contract.Date = DateTime.Parse(Console.ReadLine());
-
-            Console.Write("Value per Hour: ");
-            contract.valuePerHour = Double.Parse(Console.ReadLine());
-
-            Console.Write("Duration: ");
-            contract.hours = int.Parse(Console.ReadLine());
-
             contratos.Add(contract);
         }
 
         public void removeContract(HourContract contract)
         {
-            contract = null;
-            GC.Collect();
+            contratos.Remove(contract);
         }
 
         public Double income(int year, int Month)

@@ -12,6 +12,20 @@ namespace Composicao.Entities
         {
             return valuePerHour * hours;
         }
-    
+
+        public void setDate(DateTime dateTime)
+        {
+            Date = dateTime;
+        }
+
+        public void setValuePerHour(Double value)
+        {
+            valuePerHour = value;
+        }
+
+        public void setHours(int hour)
+        {
+            hours = hour;
+        }
     }
 }
