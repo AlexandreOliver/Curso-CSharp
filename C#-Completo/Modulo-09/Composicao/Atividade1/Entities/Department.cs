@@ -1,6 +1,6 @@
 using System;
 
-namespace Composicao.Entities
+namespace Atividade1.Entities
 {
     public class Department
     {

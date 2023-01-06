@@ -1,8 +1,8 @@
 using System;
 using System.Collections.Generic;
-using Composicao.Entities.Enums;
+using Atividade1.Entities.Enums;
 
-namespace Composicao.Entities
+namespace Atividade1.Entities
 {
     public class Worker
     {

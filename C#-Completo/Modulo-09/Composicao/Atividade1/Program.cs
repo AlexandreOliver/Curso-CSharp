@@ -1,5 +1,5 @@
-﻿using Composicao.Entities;
-using Composicao.Entities.Enums;
+﻿using Atividade1.Entities;
+using Atividade1.Entities.Enums;
 
 
 Console.Write("Enter department's name: ");

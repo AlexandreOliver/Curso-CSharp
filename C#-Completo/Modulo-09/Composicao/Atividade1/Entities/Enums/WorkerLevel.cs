@@ -1,6 +1,6 @@
 using System;
 
-namespace Composicao.Entities.Enums
+namespace Atividade1.Entities.Enums
 {
     public enum WorkerLevel : int
     {
