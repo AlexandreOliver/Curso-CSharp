@@ -29,23 +29,5 @@ pub2.addCommet(comentario3);
 pub2.addCommet(comentario4);
 
 
-Console.WriteLine(pub.ToString());
-Console.WriteLine("Coments:");
-
-List<Comment> comentarios = pub.showComment();
-for (int i = 0; i < comentarios.Count; i++)
-{
-    Console.WriteLine(comentarios[i].text);
-}
-
-Console.WriteLine("\n");
-
-Console.WriteLine(pub2.ToString());
-Console.WriteLine("Coments:");
-
-comentarios = pub2.showComment();
-for (int i = 0; i < comentarios.Count; i++)
-{
-    Console.WriteLine(comentarios[i].text);
-}
-
+Console.WriteLine(pub);
+Console.WriteLine(pub2);
