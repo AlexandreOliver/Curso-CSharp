@@ -1,0 +1,15 @@
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-09/Composicao/Atividade2/bin/Debug/net7.0/Atividade2
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-09/Composicao/Atividade2/bin/Debug/net7.0/Atividade2.deps.json
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-09/Composicao/Atividade2/bin/Debug/net7.0/Atividade2.runtimeconfig.json
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-09/Composicao/Atividade2/bin/Debug/net7.0/Atividade2.dll
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-09/Composicao/Atividade2/bin/Debug/net7.0/Atividade2.pdb
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-09/Composicao/Atividade2/obj/Debug/net7.0/Atividade2.csproj.AssemblyReference.cache
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-09/Composicao/Atividade2/obj/Debug/net7.0/Atividade2.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-09/Composicao/Atividade2/obj/Debug/net7.0/Atividade2.AssemblyInfoInputs.cache
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-09/Composicao/Atividade2/obj/Debug/net7.0/Atividade2.AssemblyInfo.cs
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-09/Composicao/Atividade2/obj/Debug/net7.0/Atividade2.csproj.CoreCompileInputs.cache
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-09/Composicao/Atividade2/obj/Debug/net7.0/Atividade2.dll
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-09/Composicao/Atividade2/obj/Debug/net7.0/refint/Atividade2.dll
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-09/Composicao/Atividade2/obj/Debug/net7.0/Atividade2.pdb
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-09/Composicao/Atividade2/obj/Debug/net7.0/Atividade2.genruntimeconfig.cache
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-09/Composicao/Atividade2/obj/Debug/net7.0/ref/Atividade2.dll
