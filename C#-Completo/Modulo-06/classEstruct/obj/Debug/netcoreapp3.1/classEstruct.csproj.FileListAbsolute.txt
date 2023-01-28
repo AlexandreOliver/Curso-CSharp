@@ -1,0 +1,13 @@
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/classEstruct/bin/Debug/netcoreapp3.1/classEstruct
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/classEstruct/bin/Debug/netcoreapp3.1/classEstruct.deps.json
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/classEstruct/bin/Debug/netcoreapp3.1/classEstruct.runtimeconfig.json
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/classEstruct/bin/Debug/netcoreapp3.1/classEstruct.runtimeconfig.dev.json
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/classEstruct/bin/Debug/netcoreapp3.1/classEstruct.dll
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/classEstruct/bin/Debug/netcoreapp3.1/classEstruct.pdb
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/classEstruct/obj/Debug/netcoreapp3.1/classEstruct.csprojAssemblyReference.cache
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/classEstruct/obj/Debug/netcoreapp3.1/classEstruct.AssemblyInfoInputs.cache
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/classEstruct/obj/Debug/netcoreapp3.1/classEstruct.AssemblyInfo.cs
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/classEstruct/obj/Debug/netcoreapp3.1/classEstruct.csproj.CoreCompileInputs.cache
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/classEstruct/obj/Debug/netcoreapp3.1/classEstruct.dll
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/classEstruct/obj/Debug/netcoreapp3.1/classEstruct.pdb
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/classEstruct/obj/Debug/netcoreapp3.1/classEstruct.genruntimeconfig.cache

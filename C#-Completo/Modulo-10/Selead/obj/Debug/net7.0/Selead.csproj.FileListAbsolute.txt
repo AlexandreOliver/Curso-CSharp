@@ -1,0 +1,15 @@
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-10/Selead/obj/Debug/net7.0/Selead.csproj.AssemblyReference.cache
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-10/Selead/obj/Debug/net7.0/Selead.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-10/Selead/obj/Debug/net7.0/Selead.AssemblyInfoInputs.cache
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-10/Selead/obj/Debug/net7.0/Selead.AssemblyInfo.cs
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-10/Selead/obj/Debug/net7.0/Selead.csproj.CoreCompileInputs.cache
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-10/Selead/bin/Debug/net7.0/Selead
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-10/Selead/bin/Debug/net7.0/Selead.deps.json
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-10/Selead/bin/Debug/net7.0/Selead.runtimeconfig.json
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-10/Selead/bin/Debug/net7.0/Selead.dll
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-10/Selead/bin/Debug/net7.0/Selead.pdb
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-10/Selead/obj/Debug/net7.0/Selead.dll
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-10/Selead/obj/Debug/net7.0/refint/Selead.dll
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-10/Selead/obj/Debug/net7.0/Selead.pdb
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-10/Selead/obj/Debug/net7.0/Selead.genruntimeconfig.cache
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-10/Selead/obj/Debug/net7.0/ref/Selead.dll

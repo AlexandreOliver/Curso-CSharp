@@ -1,0 +1,13 @@
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/vetores/bin/Debug/netcoreapp3.1/vetores
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/vetores/bin/Debug/netcoreapp3.1/vetores.deps.json
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/vetores/bin/Debug/netcoreapp3.1/vetores.runtimeconfig.json
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/vetores/bin/Debug/netcoreapp3.1/vetores.runtimeconfig.dev.json
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/vetores/bin/Debug/netcoreapp3.1/vetores.dll
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/vetores/bin/Debug/netcoreapp3.1/vetores.pdb
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/vetores/obj/Debug/netcoreapp3.1/vetores.csprojAssemblyReference.cache
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/vetores/obj/Debug/netcoreapp3.1/vetores.AssemblyInfoInputs.cache
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/vetores/obj/Debug/netcoreapp3.1/vetores.AssemblyInfo.cs
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/vetores/obj/Debug/netcoreapp3.1/vetores.csproj.CoreCompileInputs.cache
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/vetores/obj/Debug/netcoreapp3.1/vetores.dll
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/vetores/obj/Debug/netcoreapp3.1/vetores.pdb
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/vetores/obj/Debug/netcoreapp3.1/vetores.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/matriz/bin/Debug/netcoreapp3.1/matriz
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/matriz/bin/Debug/netcoreapp3.1/matriz.deps.json
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/matriz/bin/Debug/netcoreapp3.1/matriz.runtimeconfig.json
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/matriz/bin/Debug/netcoreapp3.1/matriz.runtimeconfig.dev.json
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/matriz/bin/Debug/netcoreapp3.1/matriz.dll
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/matriz/bin/Debug/netcoreapp3.1/matriz.pdb
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/matriz/obj/Debug/netcoreapp3.1/matriz.csprojAssemblyReference.cache
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/matriz/obj/Debug/netcoreapp3.1/matriz.AssemblyInfoInputs.cache
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/matriz/obj/Debug/netcoreapp3.1/matriz.AssemblyInfo.cs
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/matriz/obj/Debug/netcoreapp3.1/matriz.csproj.CoreCompileInputs.cache
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/matriz/obj/Debug/netcoreapp3.1/matriz.dll
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/matriz/obj/Debug/netcoreapp3.1/matriz.pdb
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/matriz/obj/Debug/netcoreapp3.1/matriz.genruntimeconfig.cache

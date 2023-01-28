@@ -1,0 +1,4 @@
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/listas/teoria/obj/Debug/netcoreapp3.1/teoria.csprojAssemblyReference.cache
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/listas/teoria/obj/Debug/netcoreapp3.1/teoria.AssemblyInfoInputs.cache
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/listas/teoria/obj/Debug/netcoreapp3.1/teoria.AssemblyInfo.cs
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/listas/teoria/obj/Debug/netcoreapp3.1/teoria.csproj.CoreCompileInputs.cache

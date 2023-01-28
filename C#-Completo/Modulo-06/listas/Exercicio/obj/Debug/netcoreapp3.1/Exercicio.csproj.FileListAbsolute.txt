@@ -1,0 +1,13 @@
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/listas/Exercicio/obj/Debug/netcoreapp3.1/Exercicio.csprojAssemblyReference.cache
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/listas/Exercicio/obj/Debug/netcoreapp3.1/Exercicio.AssemblyInfoInputs.cache
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/listas/Exercicio/obj/Debug/netcoreapp3.1/Exercicio.AssemblyInfo.cs
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/listas/Exercicio/obj/Debug/netcoreapp3.1/Exercicio.csproj.CoreCompileInputs.cache
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/listas/Exercicio/bin/Debug/netcoreapp3.1/Exercicio
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/listas/Exercicio/bin/Debug/netcoreapp3.1/Exercicio.deps.json
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/listas/Exercicio/bin/Debug/netcoreapp3.1/Exercicio.runtimeconfig.json
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/listas/Exercicio/bin/Debug/netcoreapp3.1/Exercicio.runtimeconfig.dev.json
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/listas/Exercicio/bin/Debug/netcoreapp3.1/Exercicio.dll
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/listas/Exercicio/bin/Debug/netcoreapp3.1/Exercicio.pdb
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/listas/Exercicio/obj/Debug/netcoreapp3.1/Exercicio.dll
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/listas/Exercicio/obj/Debug/netcoreapp3.1/Exercicio.pdb
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-06/listas/Exercicio/obj/Debug/netcoreapp3.1/Exercicio.genruntimeconfig.cache
