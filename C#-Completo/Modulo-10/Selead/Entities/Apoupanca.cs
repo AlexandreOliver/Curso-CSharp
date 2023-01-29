@@ -2,7 +2,7 @@ namespace Entities;
 
 class Conta_poupanca : Account
 {
-    public double cTaxa {get; set;} = 0;
+    public double Taxa {get; set;} = 0;
 
     public Conta_poupanca(int number, string holder, double balance, double taxa)
         : base(number, holder, balance)
