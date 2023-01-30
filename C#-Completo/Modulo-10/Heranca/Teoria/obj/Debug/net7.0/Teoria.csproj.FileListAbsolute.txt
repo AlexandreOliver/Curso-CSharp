@@ -1,0 +1,15 @@
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-10/Herança/Teoria/bin/Debug/net7.0/Teoria
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-10/Herança/Teoria/bin/Debug/net7.0/Teoria.deps.json
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-10/Herança/Teoria/bin/Debug/net7.0/Teoria.runtimeconfig.json
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-10/Herança/Teoria/bin/Debug/net7.0/Teoria.dll
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-10/Herança/Teoria/bin/Debug/net7.0/Teoria.pdb
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-10/Herança/Teoria/obj/Debug/net7.0/Teoria.csproj.AssemblyReference.cache
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-10/Herança/Teoria/obj/Debug/net7.0/Teoria.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-10/Herança/Teoria/obj/Debug/net7.0/Teoria.AssemblyInfoInputs.cache
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-10/Herança/Teoria/obj/Debug/net7.0/Teoria.AssemblyInfo.cs
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-10/Herança/Teoria/obj/Debug/net7.0/Teoria.csproj.CoreCompileInputs.cache
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-10/Herança/Teoria/obj/Debug/net7.0/Teoria.dll
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-10/Herança/Teoria/obj/Debug/net7.0/refint/Teoria.dll
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-10/Herança/Teoria/obj/Debug/net7.0/Teoria.pdb
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-10/Herança/Teoria/obj/Debug/net7.0/Teoria.genruntimeconfig.cache
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-10/Herança/Teoria/obj/Debug/net7.0/ref/Teoria.dll
