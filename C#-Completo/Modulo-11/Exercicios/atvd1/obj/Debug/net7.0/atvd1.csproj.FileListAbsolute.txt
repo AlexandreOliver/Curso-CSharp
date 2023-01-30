@@ -1,0 +1,15 @@
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-11/Exercicios/atvd1/obj/Debug/net7.0/atvd1.csproj.AssemblyReference.cache
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-11/Exercicios/atvd1/obj/Debug/net7.0/atvd1.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-11/Exercicios/atvd1/obj/Debug/net7.0/atvd1.AssemblyInfoInputs.cache
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-11/Exercicios/atvd1/obj/Debug/net7.0/atvd1.AssemblyInfo.cs
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-11/Exercicios/atvd1/obj/Debug/net7.0/atvd1.csproj.CoreCompileInputs.cache
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-11/Exercicios/atvd1/bin/Debug/net7.0/atvd1
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-11/Exercicios/atvd1/bin/Debug/net7.0/atvd1.deps.json
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-11/Exercicios/atvd1/bin/Debug/net7.0/atvd1.runtimeconfig.json
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-11/Exercicios/atvd1/bin/Debug/net7.0/atvd1.dll
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-11/Exercicios/atvd1/bin/Debug/net7.0/atvd1.pdb
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-11/Exercicios/atvd1/obj/Debug/net7.0/atvd1.dll
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-11/Exercicios/atvd1/obj/Debug/net7.0/refint/atvd1.dll
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-11/Exercicios/atvd1/obj/Debug/net7.0/atvd1.pdb
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-11/Exercicios/atvd1/obj/Debug/net7.0/atvd1.genruntimeconfig.cache
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-11/Exercicios/atvd1/obj/Debug/net7.0/ref/atvd1.dll
