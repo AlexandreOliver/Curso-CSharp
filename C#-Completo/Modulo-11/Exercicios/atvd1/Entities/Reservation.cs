@@ -22,10 +22,22 @@ class Reservation
         return (int) duracao.TotalDays;
     }
 
-    public void updateDays(DateTime checkIn, DateTime checkOut)
+    public string updateDays(DateTime checkIn, DateTime checkOut)
     {
+        DateTime now = DateTime.Now;
+        if (checkIn < now || checkOut < now)
+        {
+            return "Erro na reserva: Datas precisam ser futuras";
+        }
+        if (checkOut <= checkIn)
+        {
+            return "Erro na reserva: Check-Out nao pode ser anterior ao Check-In";
+        }
+        
         CheckIn = checkIn;
         CheckOut = checkOut;
+
+        return null;
     }
 
     public override string ToString()
