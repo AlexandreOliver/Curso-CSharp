@@ -1,0 +1,15 @@
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-10/Exercicios/HerancaPolimofirmo/atvd2/obj/Debug/net7.0/atvd2.csproj.AssemblyReference.cache
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-10/Exercicios/HerancaPolimofirmo/atvd2/obj/Debug/net7.0/atvd2.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-10/Exercicios/HerancaPolimofirmo/atvd2/obj/Debug/net7.0/atvd2.AssemblyInfoInputs.cache
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-10/Exercicios/HerancaPolimofirmo/atvd2/obj/Debug/net7.0/atvd2.AssemblyInfo.cs
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-10/Exercicios/HerancaPolimofirmo/atvd2/obj/Debug/net7.0/atvd2.csproj.CoreCompileInputs.cache
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-10/Exercicios/HerancaPolimofirmo/atvd2/bin/Debug/net7.0/atvd2
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-10/Exercicios/HerancaPolimofirmo/atvd2/bin/Debug/net7.0/atvd2.deps.json
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-10/Exercicios/HerancaPolimofirmo/atvd2/bin/Debug/net7.0/atvd2.runtimeconfig.json
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-10/Exercicios/HerancaPolimofirmo/atvd2/bin/Debug/net7.0/atvd2.dll
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-10/Exercicios/HerancaPolimofirmo/atvd2/bin/Debug/net7.0/atvd2.pdb
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-10/Exercicios/HerancaPolimofirmo/atvd2/obj/Debug/net7.0/atvd2.dll
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-10/Exercicios/HerancaPolimofirmo/atvd2/obj/Debug/net7.0/refint/atvd2.dll
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-10/Exercicios/HerancaPolimofirmo/atvd2/obj/Debug/net7.0/atvd2.pdb
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-10/Exercicios/HerancaPolimofirmo/atvd2/obj/Debug/net7.0/atvd2.genruntimeconfig.cache
+/home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-10/Exercicios/HerancaPolimofirmo/atvd2/obj/Debug/net7.0/ref/atvd2.dll

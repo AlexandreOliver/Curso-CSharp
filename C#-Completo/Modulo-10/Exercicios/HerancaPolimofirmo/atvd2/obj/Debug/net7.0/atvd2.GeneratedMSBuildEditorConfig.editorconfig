@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Teoria
-build_property.ProjectDir = /home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-10/Heranca/Teoria/
+build_property.RootNamespace = atvd2
+build_property.ProjectDir = /home/alexandre/Documentos/Programação/Curso-CSharp/C#-Completo/Modulo-10/Exercicios/HerancaPolimofirmo/atvd2/
