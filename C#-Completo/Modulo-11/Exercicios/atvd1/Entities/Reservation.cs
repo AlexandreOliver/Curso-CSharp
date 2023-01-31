@@ -1,4 +1,5 @@
 using System;
+using Entities.Exceptions;
 
 namespace Entities;
 
@@ -10,6 +11,11 @@ class Reservation
 
     public Reservation(int roomNumber, DateTime checkIn, DateTime checkOut)
     {
+        if (checkOut <= checkIn)
+        {
+            throw new DomainException("Erro na reserva: Check-Out nao pode ser anterior ao Check-In");
+        }
+        
         RoomNumber = roomNumber;
         CheckIn = checkIn;
         CheckOut = checkOut;
@@ -22,22 +28,20 @@ class Reservation
         return (int) duracao.TotalDays;
     }
 
-    public string updateDays(DateTime checkIn, DateTime checkOut)
+    public void updateDays(DateTime checkIn, DateTime checkOut)
     {
         DateTime now = DateTime.Now;
         if (checkIn < now || checkOut < now)
         {
-            return "Erro na reserva: Datas precisam ser futuras";
+            throw new DomainException("Erro na reserva: Datas precisam ser futuras");
         }
         if (checkOut <= checkIn)
         {
-            return "Erro na reserva: Check-Out nao pode ser anterior ao Check-In";
+            throw new DomainException("Erro na reserva: Check-Out nao pode ser anterior ao Check-In");
         }
         
         CheckIn = checkIn;
         CheckOut = checkOut;
-
-        return null;
     }
 
     public override string ToString()

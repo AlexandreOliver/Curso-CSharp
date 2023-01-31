@@ -1,21 +1,19 @@
 ﻿using Entities;
+using Entities.Exceptions;
 
-Console.Write("Room Number: ");
-int number = int.Parse(Console.ReadLine());
-Console.Write("Check-in date: (dd/MM/yyyy): ");
-DateTime checkIn = DateTime.Parse(Console.ReadLine());
-Console.Write("Check-Out date: (dd/MM/yyyy): ");
-DateTime checkOut = DateTime.Parse(Console.ReadLine());
-
-
-if (checkOut <= checkIn)
+int number;
+try
 {
-    Console.WriteLine("Erro na reserva, data incompativel");
-}
-else
-{
+    Console.Write("Room Number: ");
+    number = int.Parse(Console.ReadLine());
+    Console.Write("Check-in date: (dd/MM/yyyy): ");
+    DateTime checkIn = DateTime.Parse(Console.ReadLine());
+    Console.Write("Check-Out date: (dd/MM/yyyy): ");
+    DateTime checkOut = DateTime.Parse(Console.ReadLine());
+
     Reservation reservation = new Reservation(number, checkIn, checkOut);
     Console.WriteLine("Reservation: " + reservation);
+
 
     Console.WriteLine("\nAtualize a Reserva:");
     Console.Write("Check-in date: (dd/MM/yyyy): ");
@@ -23,13 +21,14 @@ else
     Console.Write("Check-Out date: (dd/MM/yyyy): ");
     checkOut = DateTime.Parse(Console.ReadLine());
 
-    string error = reservation.updateDays(checkIn, checkOut);
-    if (error != null)
-    {
-        System.Console.WriteLine(error);
-    }
-    else
-    {
-        System.Console.WriteLine("Reservation: " + reservation);
-    }
+    reservation.updateDays(checkIn, checkOut);
+    System.Console.WriteLine("Reservation: " + reservation);
+}
+catch (DomainException e)
+{
+    Console.WriteLine(e.Message);
+}
+catch (FormatException e)
+{
+    Console.WriteLine(e.Message);
 }
